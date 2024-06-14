@@ -1,0 +1,6 @@
+#ifndef TARIFF_CALCULATION_H_INCLUDED
+#define TARIFF_CALCULATION_H_INCLUDED
+
+double energyCost(double Energy);
+
+#endif // TARIFF_CALCULATION_H_INCLUDED

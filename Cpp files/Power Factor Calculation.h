@@ -1,0 +1,6 @@
+#ifndef POWER_FACTOR_CALCULATION_H_INCLUDED
+#define POWER_FACTOR_CALCULATION_H_INCLUDED
+double power_factor_clc(double , double );
+
+
+#endif // POWER_FACTOR_CALCULATION_H_INCLUDED
